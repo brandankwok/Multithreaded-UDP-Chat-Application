@@ -1,3 +1,1 @@
-# cmpt300-s-talk
-# Brandan Kwok, 301462230
-# Sri 
+# CMPT 300 Assignment 2
